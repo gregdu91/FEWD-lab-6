@@ -1,0 +1,152 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;;
+}
+
+.jumbotron {
+    padding: 50px;
+    background-color: darkblue;
+    color: white;
+  }
+
+  .btn {
+    text-transform: uppercase;
+    width: 500px;
+  }
+  
+  .btn-pink {
+    background-color: palevioletred;
+    color: white;
+    border: solid 2px palevioletred;
+    border-radius: 0;
+  }
+
+  .btn-can{
+      height: 40px;
+      margin : 15px;
+  }
+
+  .alert {
+    border-radius: 0;
+    width: 840px;
+    height: 20px;
+    margin-top: 30px;
+  }
+  
+  .alert-pink {
+    background: gray;
+    color: white;
+    border: 0;
+    padding: 5px;
+  }
+
+  .right{
+      float: right;
+      padding-left: 20px;
+      padding-right: 20px;
+      width: 400px;
+  }
+
+  .message{
+    padding-top: 30px;
+    width: 400px;
+  }
+
+  .badge {
+    background: purple;
+  }
+
+  .notifications {
+    color: white;
+    width: 100%;
+  }
+
+  .case-main {
+    width: 400px;
+    background: darkblue;
+    color: white;
+  }
+
+  .case-title {
+    padding: 20px;
+    background: gray;
+  }
+
+  .case-footer {
+    background: blue;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 15px;
+    border: 0;
+    height: 30px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+  }
+
+  .case button {
+    width: 88%;
+    
+  }
+
+  .greeting input {
+    background-color: darkblue;
+    border-top: solid 2px gray;
+    border-bottom: solid 4px gray;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    color: white;
+    width: 350px;
+    margin: 15px;
+  }
+
+  .greeting {
+    margin-top: 20px;
+  }
+
+  
+  .sondage-bar-pink {
+    background: pink;
+    float: left;
+  }
+  
+  .sondage-bar-green {
+    background: green;
+    float: right;
+  }
+
+  .btn-green {
+    color: green;
+    background-color: white;
+    border: solid 2px green;
+    float: right;
+    margin-top: 2px;
+  }
+  
+  
+  .poll button {
+    width: 48%;
+  }
+  
+  .btn {
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+ .vote{
+     border: solid;
+ }
+ 
+
+ .footer {
+    padding: 15px 20px;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+  }
+  
+
+
+
