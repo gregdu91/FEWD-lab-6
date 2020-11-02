@@ -89,6 +89,10 @@ body {
     
   }
 
+  h4{
+    text-align: center;
+  }
+
   .greeting input {
     background-color: darkblue;
     border-top: solid 2px gray;
